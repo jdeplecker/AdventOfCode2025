@@ -4,10 +4,11 @@ My solutions for [Advent of Code 2025](https://adventofcode.com/2025)
 
 ### Results
 
-P = solved with [Processing](https://processing.org/)\
-🐍 = solved with python\
+P = solved with Processing\
+🐍 = solved with Python\
 JS = solved with Javascript\
-🐪 = solved with Perl
+🐪 = solved with Perl\
+PHP = solved with PHP WASM
 
 | Day | Part 1 | Part 2 |
 |:---:| :---: |:-----:|
@@ -15,7 +16,7 @@ JS = solved with Javascript\
 | 02  | 🐍 |   🐍  |
 | 03  | JS |   JS  |
 | 04  | 🐪 |   🐪  |
-| 05  | - |   -  |
+| 05  | PHP |   PHP  |
 | 06  | - |   -  |
 | 07  | - |   -  |
 | 08  | - |   -  |
