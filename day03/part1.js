@@ -21,7 +21,7 @@ document.querySelector("input").addEventListener("change", function (){
             result += Number(biggestNumber + biggestNumber2);
             
         });
-        console.log("Part 1:", result);                
+        console.log("Part 1:", result);
     }
     fr.readAsText(this.files[0]);
 });

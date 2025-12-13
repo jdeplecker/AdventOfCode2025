@@ -9,7 +9,8 @@ P = solved with Processing\
 JS = solved with Javascript\
 🐪 = solved with Perl\
 PHP = solved with PHP WASM\
-🐫 = solved with OCaml
+🐫 = solved with OCaml\
+♦️ = solved with Ruby
 
 | Day | Part 1 | Part 2 |
 |:---:| :---: |:-----:|
@@ -19,7 +20,7 @@ PHP = solved with PHP WASM\
 | 04  | 🐪 |   🐪  |
 | 05  | PHP |   PHP  |
 | 06  | 🐫 |   🐫  |
-| 07  | - |   -  |
+| 07  | ♦️ |   ♦️  |
 | 08  | - |   -  |
 | 09  | - |   -  |
 | 10  | - |   -  |
